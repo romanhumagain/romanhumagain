@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Roman Humagain</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanhumagain&label=Profile%20views&color=0e75b6&style=flat" alt="romanhumagain" /> </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-humagain" target="_blank">
