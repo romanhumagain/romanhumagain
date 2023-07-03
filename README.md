@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Python, Django**
 
-- 📫 How to reach me **romanhumagain@gmail.com**
+- 📫 Get in touch **romanhumagain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
