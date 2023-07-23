@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/romanhumagain/Django-Student_Management_System/blob/master/School/static/images/git.jpg)
+![MasterHead](https://github.com/romanhumagain/Django_Student-Management-System/blob/master/School/static/images/git.jpg)
 <h1 align="center">Hi 👋, I'm Roman Humagain</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
