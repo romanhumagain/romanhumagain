@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman Humagain</h1>
 <p align="center">
   <a href="https://github.com/romanhumagain/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=90&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Backend+Developer;Always+Learning..."></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=90&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Backend+Developer;"></a>
 </p>
 
 
