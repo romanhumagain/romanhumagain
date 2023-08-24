@@ -54,6 +54,14 @@
 </p>
 <p align="center">
   <a href="https://github.com/romanhumagain">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanhumagain&theme=radical&border=7F3FBF&background=0D1117" alt="romanhumagain GitHub streak"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/romanhumagain">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanhumagain&theme=radical" alt="romanhumagain GitHub Contribution"/>
   </a>
 </p>
