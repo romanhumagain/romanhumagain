@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman Humagain</h1>
 <p align="center">
   <a href="https://github.com/romanhumagain/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=90&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Backend+Developer;AI+Enthusiast"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=90&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;"></a>
 </p>
 
 
@@ -19,11 +19,11 @@
 
 
 
-- 🌱 I’m currently learning **Python Django Framework and Django Rest Framework**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 My Portfolio Website [https://www.romanhumagain.com.np/](https://www.romanhumagain.com.np/)
 
-- 💬 Ask me about **Java, Python, Django**
+- 💬 Ask me about **Java, Python, JavaScript, React, Django,**
 
 - 📫 Get in touch **romanhumagain@gmail.com**
 </p>
@@ -41,8 +41,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-B09255?style=for-the-badge&logo=django&logoColor=white)
 
