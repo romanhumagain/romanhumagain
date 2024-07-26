@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Roman Humagain</h1>
+
 <p align="center">
   <a href="https://github.com/romanhumagain/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=90&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=50&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;"></a>
 </p>
-
-
-
-
-
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-humagain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -85,13 +80,6 @@
 <a href="https://github.com/romanhumagain">
     <img alt="romanhumagain Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=romanhumagain&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </a>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romanhumagain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 </p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=romanhumagain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=romanhumagain&icon=0&color=0)](https://visitcount.itsvg.in)
