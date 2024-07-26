@@ -36,7 +36,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
