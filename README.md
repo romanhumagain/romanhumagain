@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 My Portfolio Website [romanhumagain.com.np](romanhumagain.com.np)
+- 👨‍💻 My Portfolio Website [romanhumagain.com.np](https://www.romanhumagain.com.np/)
 
 - 💬 Ask me about **Java, Python, JavaScript, React, Django,**
 
