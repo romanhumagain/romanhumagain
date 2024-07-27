@@ -1,8 +1,12 @@
+<p align="center">👋</p>
+<h1 align="center" style="font-size: 24px; color: #F8D866;">
+  Full Stack Software Developer 👨‍💻
+</h1>
+<h6 align="center" style="font-size: 24px; color: #A78BFA;">
+  Welcome to my GitHub profile! Here, you'll find my projects, contributions, and more about my journey in tech.
+</h6>
 
-<p align="center">
-  <a href="https://github.com/romanhumagain/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=F85D7F,F8D866,F85D7F&speed=50&size=30&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;"></a>
-</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-humagain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
