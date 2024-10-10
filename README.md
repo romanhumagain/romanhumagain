@@ -1,5 +1,5 @@
-<p>
-  <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/header_banner.png" alt="Coding GIF" align="right"/>
+<p align="center">
+  <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/header_banner.png" alt="Coding GIF" height="220" align="right"/>
 </p>
 
 
