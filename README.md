@@ -23,11 +23,12 @@
   <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/coding.gif" alt="Coding GIF" width="350" height="250" align="right"/>
 </p>
 
-- 🌱 I’m currently learning **Full Stack and Mobile Application Development**
+- 🌱 I’m currently learning **Full Stack & Mobile App Development**
 
 - 👨‍💻 My Portfolio Website [romanhumagain.com.np](https://www.romanhumagain.com.np/)
 
-- 💬 Ask me about Web Development (**MERN Stack / Django**) & Mobile Application Development (**Flutter**)
+- 💬 Ask me about Web Development & Mobile App Development 👇<br>
+ &nbsp;&nbsp; &nbsp;&nbsp;(**MERN Stack / Django**) & (**Flutter**)
 
 - 📫 Get in touch **romanhumagain@gmail.com**
 
