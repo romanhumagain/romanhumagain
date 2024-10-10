@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/header_banner.png" alt="Coding GIF" height="220" align="right"/>
+  <strong>Hello there! 👋 I'm Roman Humagain</strong>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/romanhumagain/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=00FF33&speed=90&size=24&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;">
+  </a>
+</p>
 
 
 <p align="left">
@@ -47,6 +51,9 @@
   </a>
 </p>
 
+<p>
+  
+</p>
 
 ## 👨‍💻 Tech Stack:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,7 +87,7 @@
 
 
 ![Snake animation](https://github.com/romanhumagain/romanhumagain/blob/main/only-svg/github-contribution-grid-snake-dark.svg)
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
 <p align="center">
   <a href="https://github.com/romanhumagain">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanhumagain&theme=radical&border=7F3FBF&background=0D1117" alt="romanhumagain GitHub streak"/>
