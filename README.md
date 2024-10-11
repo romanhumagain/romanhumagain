@@ -1,12 +1,23 @@
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=romanhumagain&icon=0&color=0" alt="Visit Count" />
+  </a>
+
+
 <p align="center">
   <strong>Hello there! 👋 I'm Roman Humagain</strong>
 </p>
 
+<!-- Visit Counter -->
+
+
+<!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/romanhumagain/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=00FF33&speed=90&size=24&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&colors=00FF33&speed=90&size=24&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 <p align="left">
@@ -110,5 +121,5 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=romanhumagain&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
