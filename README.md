@@ -10,9 +10,7 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/roman-humagain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  
   &nbsp;&nbsp; <!-- Adds spacing between the two badges -->
   <a href="https://www.romanhumagain.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-%23FF5733?style=for-the-badge&logo=google-chrome" alt="Portfolio Website" />
@@ -96,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/romanhumagain">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanhumagain&theme=radical" alt="romanhumagain GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanhumagain&theme=radical&background=0D1117" alt="romanhumagain GitHub Contribution"/>
   </a>
 </p>
 
@@ -106,22 +104,11 @@
   </a>
 
   <a href="https://github.com/romanhumagain">
-    <img alt="romanhumagain Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=romanhumagain&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+    <img alt="romanhumagain Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=romanhumagain&langs_count=12&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
-<p align="center"> 
-<h2>✨ Highlight Projects</h2> 
-</p>
-<p align="center"> 
-<a href="https://github.com/romanhumagain/Blogify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romanhumagain&repo=Blogify&show_icons=true&line_height=37&text_color=8a919atheme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Blogify" />
-</a>
 
-<a href="https://github.com/romanhumagain/TaskUnity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romanhumagain&repo=TaskUnity&show_icons=true&line_height=40&text_color=8a919atheme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="TaskUnity" />
-</a>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=romanhumagain&icon=0&color=0)](https://visitcount.itsvg.in)
 
