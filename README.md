@@ -31,7 +31,7 @@
 
 
 <p>
-  <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/coding.gif" alt="Coding GIF" width="350" height="250" align="right"/>
+  <img src="https://github.com/romanhumagain/romanhumagain/raw/main/only-svg/readme.gif" alt="Coding GIF" width="350" height="250" align="right"/>
 </p>
 
 - 🌱 I’m currently learning **Full Stack & Mobile App Development**
