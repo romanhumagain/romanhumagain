@@ -23,7 +23,7 @@
 <p align="left">
   
   &nbsp;&nbsp; <!-- Adds spacing between the two badges -->
-  <a href="https://romanhumagain.vercel.app/" target="_blank">
+  <a href="https://romanhumagain.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-%23FF5733?style=for-the-badge&logo=google-chrome" alt="Portfolio Website" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **Full Stack & Mobile App Development**
 
-- 👨‍💻 My Portfolio Website [romanhumagain.vercel.app](https://romanhumagain.vercel.app/)
+- 👨‍💻 My Portfolio Website [romanhumagain.com.np](https://romanhumagain.com.np/)
 
 - 💬 Ask me about Web Development & Mobile App Development 👇<br>
  &nbsp;&nbsp; &nbsp;&nbsp;(**MERN Stack / Django**) & (**Flutter**)
